@@ -8,6 +8,16 @@ We do research, we compete at competitions, we conduct red teaming excersises ag
 
 To contact use you can email cyberclub@uwec.edu.
 
+## Development
+
+To contribute to any of our repositories, follow this development workflow:
+
+1. Each repository has a `/develop` branch, do all work on there
+2. Create your own fork of the respository
+3. Make your changes
+4. Push your changes to the develop branch
+5. An executive board member or someone designated by them will review your changes and pull them into the main branch
+
 <!--
 
 **Here are some ideas to get you started:**
