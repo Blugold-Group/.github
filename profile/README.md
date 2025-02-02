@@ -8,6 +8,8 @@ We do research, we compete at competitions, we conduct red teaming excersises ag
 
 To contact use you can email cyberclub@uwec.edu.
 
+[blugold.group](https://blugold.group/about)
+
 ## Development
 
 To contribute to any of our repositories, follow this development workflow:
