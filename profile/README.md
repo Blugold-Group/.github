@@ -8,16 +8,15 @@ We do research, we compete at competitions, we conduct red teaming excersises ag
 
 To contact use you can email cyberclub@uwec.edu.
 
-[blugold.group](https://blugold.group/about)
+Check out our website here: [https://blugold.group](https://blugold.group)
 
 ## Development
 
 To contribute to any of our repositories, follow this development workflow:
 
-1. Each repository has a `/develop` branch, do all work on there
-2. Create your own fork of the respository
+2. Create your own fork of the repository
 3. Make your changes
-4. Push your changes to the develop branch
+4. Open a pull request on the main repository with your changes detailed in the PR.
 5. An executive board member or someone designated by them will review your changes and pull them into the main branch
 
 <!--
